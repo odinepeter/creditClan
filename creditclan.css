@@ -1,0 +1,90 @@
+body{
+	font-family: "Roboto Slab", serif;
+	
+}
+#wrapper1{
+	height: 300px;
+	width: 410px;
+	background: #1E90FF;
+	overflow: auto;
+	margin: 0 auto;
+	padding: 10px;
+}
+#wrapper1 h2{
+	text-align: center;
+	color: white;
+	margin-top: 20px;
+}
+img{
+	margin: 60px 0px 0px 165px ;
+}
+.form-box{
+	width: 380px;
+	margin: -70px auto;
+	position: relative;
+	padding: 10px;
+	border-radius: 5px;
+	overflow: auto;
+	padding-bottom: 30px;
+	background: #FFFFFF;
+}
+.inp{
+	width: 360px;
+	display: block;
+	padding: 20px;
+	font-size: 10px;
+	color: #C0C0C0;
+	box-sizing: border-box;
+	border: 0px solid #c0c0c0;
+
+
+}
+.sub-btn1{
+	width: 250px;
+	padding: 10px;
+	border: none;
+	border-radius: 30px;
+	font-weight: bold;
+	font-size: 16px;
+	position: relative;
+	background: #1E90FF;
+	cursor: pointer;
+	color: white;
+	margin-left: 500px;
+	margin-top: 68px;
+}
+.sub-btn2{
+	width: 250px;
+	padding: 10px;
+	border: none;
+	border-radius: 30px;
+	font-weight: bold;
+	font-size: 16px;
+	background: #6A5ACD;
+	cursor: pointer;
+	color: white;
+	margin: 20px auto;
+	margin-left: 500px;
+}
+.footer h5{
+	margin-left: 530px;
+	margin-top: 5px;
+	color: #C0C0C0;
+}
+.footer a{
+	color: #1E90FF;
+	text-decoration: none;
+}
+#user{
+	float: right;
+	margin-top: 20px;
+}
+#envelop{
+	float: right;
+	margin-top: 20px;
+}
+#eye{
+	float: right;
+	margin-top: 20px;
+	
+}
